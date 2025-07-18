@@ -86,4 +86,4 @@ void loop() {
   delay(1000);  // Wait for 1 second
 }
 ```
-**You can tinker this from [here] (https://www.tinkercad.com/things/lto5iY1Jdk9-motion-and-temperature-monitor-with-leds)**
+**You can tinker this from [here](https://www.tinkercad.com/things/lto5iY1Jdk9-motion-and-temperature-monitor-with-leds)**
