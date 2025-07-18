@@ -44,8 +44,8 @@ This Arduino project combines a digital motion sensor (PIR) and an analog temper
 ```cpp
 int pirPin = 2;           // PIR motion sensor connected to digital pin 2
 int tempPin = A0;         // LM35 temperature sensor connected to analog pin A0
-int ledTemp = 12;       // LED1 for temperature warning connected to digital pin 12
-int ledMotion = 13;         // LED2 for motion indicator connected to digital pin 13
+int ledMotion = 12;       // LED for motion indicator connected to digital pin 12
+int ledTemp = 13;         // LED for temperature warning connected to digital pin 13
 
 void setup() {
   pinMode(pirPin, INPUT);         // Set PIR pin as input
