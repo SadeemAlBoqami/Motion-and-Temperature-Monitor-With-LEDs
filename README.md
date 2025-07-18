@@ -86,5 +86,5 @@ void loop() {
   delay(1000);  // Wait for 1 second
 }
 ```
-
+You can tinker this from here: https://www.tinkercad.com/things/lto5iY1Jdk9-motion-and-temperature-monitor-with-leds/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=IZxFwKLmfBxaA56MuB3s8wc4B8i6f3r7cA8Y-AsD6SI
 
